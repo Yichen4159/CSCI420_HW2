@@ -1,0 +1,25 @@
+﻿  imageIO.cpp
+  openGLMatrix.cpp
+  pipelineProgram.cpp
+  vao.cpp
+  vbo.cpp
+  hw2.cpp
+  正在生成代码...
+C:\Users\Administrator\Desktop\CSCI420_HW2\hw2-starterCode_finish\hw2\hw2.cpp(364,17): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+C:\Users\Administrator\Desktop\CSCI420_HW2\hw2-starterCode_finish\hw2\hw2.cpp(367,17): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+C:\Users\Administrator\Desktop\CSCI420_HW2\hw2-starterCode_finish\hw2\hw2.cpp(714,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\CSCI420_HW2\hw2-starterCode_finish\hw2\hw2.cpp(738,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\CSCI420_HW2\hw2-starterCode_finish\hw2\hw2.cpp(755,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\CSCI420_HW2\hw2-starterCode_finish\hw2\hw2.cpp(770,14): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\CSCI420_HW2\hw2-starterCode_finish\hw2\hw2.cpp(771,14): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\CSCI420_HW2\hw2-starterCode_finish\hw2\hw2.cpp(772,17): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\CSCI420_HW2\hw2-starterCode_finish\hw2\hw2.cpp(774,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\CSCI420_HW2\hw2-starterCode_finish\hw2\hw2.cpp(815,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\CSCI420_HW2\hw2-starterCode_finish\hw2\hw2.cpp(827,14): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\CSCI420_HW2\hw2-starterCode_finish\hw2\hw2.cpp(1091,16): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  jpeg.lib(jerror.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  已完成代码的生成
+  hw2.vcxproj -> C:\Users\Administrator\Desktop\CSCI420_HW2\hw2-starterCode_finish\hw2\Bin\Debug\hw2.exe
